@@ -1,5 +1,3 @@
-Working as a software developer, sharing whenever I can.
-
 Here I try to publish and keep up-to-date projects that I think might be useful to other people.
 
 I also have other repositories on [GitLab](https://gitlab.com/beni.trainor.96).
